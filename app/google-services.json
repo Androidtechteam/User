@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "560644022002",
+    "project_id": "gjr-cabs",
+    "storage_bucket": "gjr-cabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560644022002:android:461dd0d1a446a70b36ba6b",
+        "android_client_info": {
+          "package_name": "com.cab.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560644022002-7l5hn4nh1nj3sbpn8g30v9668svn7r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8luYgIbPSqwUjB0iTbQP-U2t-CsLC2Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560644022002-7l5hn4nh1nj3sbpn8g30v9668svn7r2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560644022002:android:7b91ac6d0c38ba0c36ba6b",
+        "android_client_info": {
+          "package_name": "com.cab.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560644022002-7l5hn4nh1nj3sbpn8g30v9668svn7r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8luYgIbPSqwUjB0iTbQP-U2t-CsLC2Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560644022002-7l5hn4nh1nj3sbpn8g30v9668svn7r2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
